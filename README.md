@@ -6,12 +6,12 @@ Coursework and notes for Eastern University's graduate programs in Data Science,
 
 Taken from the "Software and Textbook" pages and the current syllabi posted in the program's Course Preview and Syllabi hub on Brightspace (checked October 2026). A given term's section may list something different.
 
-\*\* = a course I plan to take.
+\*\* = a course I plan to take. ✅ = completed.
 
 | Course | Textbook | Status |
 |---|---|---|
 | **DTSC 520** \*\* Fundamentals of Data Science | Jake VanderPlas, [*Python Data Science Handbook*](https://jakevdp.github.io/PythonDataScienceHandbook/) | Primary text, free online |
-| **DTSC 540** \*\* Introduction to Artificial Intelligence | Paul R. Daugherty & H. James Wilson, *Human + Machine: Reimagining Work in the Age of AI* (Harvard Business Review Press, 2024); Janelle Shane, *You Look Like a Thing and I Love You* (Voracious, 2019) | Listed in syllabus |
+| **DTSC 540** ✅ Introduction to Artificial Intelligence | Paul R. Daugherty & H. James Wilson, *Human + Machine: Reimagining Work in the Age of AI* (Harvard Business Review Press, 2024); Janelle Shane, *You Look Like a Thing and I Love You* (Voracious, 2019) | Listed in syllabus |
 | **DTSC 545** \*\* Prompt Engineering | Lee Boonstra, *Prompt Engineering* | Primary text, free online |
 | **DTSC 550** Introduction to Statistical Modeling | Danielle Navarro, [*Learning Statistics with R*](https://learningstatisticswithr.com/) | Primary text, free online |
 | **DTSC 560** Data Science for Business | Camm, Cochran, Fry & Ohlmann, *Business Analytics*, 4th ed. (Cengage, 2021) | Strongly encouraged, not required |
