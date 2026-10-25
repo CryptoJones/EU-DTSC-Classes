@@ -30,6 +30,3 @@ Taken from the "Software and Textbook" pages and the current syllabi posted in t
 | **DTSC 685** \*\* Natural Language Processing | Jacob Eisenstein, *Natural Language Processing* | Free PDF posted on Brightspace |
 | **DTSC 690** \*\* Capstone: Ethical and Philosophical Issues in Data Science | None | Readings from NYT and WSJ (free access through the library) |
 | **DTSC 691** \*\* Capstone: Applied Data Science | None | Project Handbook instead |
-| **BUSA 505** (MSDA) | W. Pride, R. Hughes & J. Kapoor, *Foundations of Business*, 7th ed.; C. Warren, A. Farmer & J. Jones, *Survey of Accounting*, 10th ed. (Cengage) | Required |
-| **BUSA 585** Financial Accounting (MSDA) | Brigham & Houston, *Fundamentals of Financial Management*, 16th ed.; Mowen, Hansen & Heitger, *Managerial Accounting*, 8th ed. (Cengage) | Required |
-| **HMGT 526** Healthcare Finance and Economics (MSDA) | Reiter & Song, *Gapenski's Healthcare Finance*, 7th ed.; Robert H. Lee, *Economics for Healthcare Managers*, 4th ed. (Health Administration Press) | Required |
