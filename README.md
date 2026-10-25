@@ -26,7 +26,7 @@ Taken from the "Software and Textbook" pages and the current syllabi posted in t
 | **DTSC 670** \*\* Foundations of Machine Learning Models | DTSC 520, 575 and 580, or prior Python data-analysis experience | Aurélien Géron, *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*, 3rd ed. (O'Reilly, ISBN 978-1-098-12597-4) | Course textbook |
 | **DTSC 671** \*\* AI Solutions in the Cloud | DTSC 670 (DTSC 620 or cloud experience recommended) | None | — |
 | **DTSC 675** \*\* Mathematics for Data Science | DTSC 670; Calculus 1 experience needed | None | Note packets provided each module |
-| **DTSC 680** \*\* Applied Machine Learning | DTSC 670 | Jeff Prosise, *Applied Machine Learning and AI for Engineers*, 1st ed. (O'Reilly, ISBN 978-1-492-09805-8) | Course textbook |
+| **DTSC 680** \*\* Applied Machine Learning | DTSC 670 | Jeff Prosise, *Applied Machine Learning and AI for Engineers*, 1st ed. (O'Reilly, ISBN 978-1-492-09805-8); *or* Aurélien Géron, *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*, 3rd ed. (O'Reilly, ISBN 978-1-098-12597-4) | Unconfirmed: the syllabus lists Prosise, the Curriculum Guide lists Géron; asked advising which is correct |
 | **DTSC 685** \*\* Natural Language Processing | DTSC 670 (MSDS and MSAI only) | Jacob Eisenstein, *Natural Language Processing* | Free PDF posted on Brightspace |
 | **DTSC 690** \*\* Capstone: Ethical and Philosophical Issues in Data Science | DTSC 670 (can be taken alongside DTSC 691) | None | Readings from NYT and WSJ (free access through the library) |
 | **DTSC 691** \*\* Capstone: Applied Data Science | 15 credits completed (can be taken alongside DTSC 690) | None | Project Handbook instead |
